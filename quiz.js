@@ -19,6 +19,10 @@
     question: "What is 8*8?",
     choices: [20, 30, 40, 50, 64],
     correctAnswer: 4
+  }, {
+    question: "What is 2+2*2?",
+    choices: [2, 4, 6, 8, 10],
+    correctAnswer: 6
   }];
   
   var questionCounter = 0; //Tracks question number
